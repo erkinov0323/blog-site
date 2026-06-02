@@ -1,4 +1,4 @@
-# Blog API System (DRF)
+# Blog API System
 
 Bu loyiha Django Rest Framework yordamida yaratilgan Blog API tizimi hisoblanadi.  
 Foydalanuvchilar ro'yxatdan o'tadi, login qiladi, post yaratadi, comment yozadi va like bosadi.
